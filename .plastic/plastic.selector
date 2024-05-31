@@ -1,0 +1,4 @@
+repository "《软件系统设计与开发》课程作业@always_le@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
